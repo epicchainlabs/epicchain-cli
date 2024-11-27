@@ -1,6 +1,6 @@
 # EpicChain CLI Setup and Usage Guide
 
-This README file provides a comprehensive guide for setting up and using the EpicChain Command Line Interface (CLI). The document covers system requirements, installation instructions, and usage examples for both Windows and Linux platforms. Follow the steps carefully to ensure a successful setup.
+A comprehensive guide for setting up and using the EpicChain Command Line Interface (CLI). The document covers system requirements, installation instructions, and usage examples for both Windows and Linux platforms. Follow the steps carefully to ensure a successful setup.
 
 ---
 
