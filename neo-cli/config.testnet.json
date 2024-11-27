@@ -4,11 +4,11 @@
       "Chain": "ChainTestNet"
     },
     "P2P": {
-      "Port": 20333,
-      "WsPort": 20334
+      "Port": 20112,
+      "WsPort": 20113
     },
     "RPC": {
-      "Port": 20332,
+      "Port": 20111,
       "SslCert": "",
       "SslCertPassword": ""
     }
