@@ -1,0 +1,8 @@
+sudo: required
+
+services:
+  - docker
+
+script:
+  - docker build -f ci/Dockerfile -t epicchain-cli-ci .
+  - docker run epicchain-cli-ci /opt/ci/run-tests-in-docker.sh
